@@ -1,7 +1,7 @@
 {
-  "name": "ngx-img-cropper",
-  "version": "0.10.4",
-  "description": "Image cropping tool for Angular",
+  "name": "ng4-img-cropper",
+  "version": "0.0.1",
+  "description": "Image cropping tool for Angular - Patch to work Angular 4",
   "scripts": {
     "tsc": "tsc",
     "build": "npm run clean && ngc -p tsconfig-aot.json",
@@ -23,29 +23,29 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/web-dave/ngx-img-cropper.git"
+    "url": "https://github.com/MAhsenArif/ngx-img-cropper.git"
   },
   "keywords": [
     "Angular",
     "image",
     "cropper"
   ],
-  "author": "David Muellerchen",
+  "author": "Ahsen Arif",
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "^5.0.0",
-    "@angular/compiler": "^5.0.0",
-    "@angular/core": "^5.0.0"
+    "@angular/common": "4.0.0",
+    "@angular/compiler": "4.0.0",
+    "@angular/core": "4.0.0"
   },
   "devDependencies": {
-    "@angular/common": "5.0.0",
-    "@angular/compiler": "5.0.0",
-    "@angular/compiler-cli": "^5.0.0",
-    "@angular/core": "5.0.0",
-    "@angular/forms": "5.0.0",
-    "@angular/http": "5.0.0",
-    "@angular/platform-browser": "5.0.0",
-    "@angular/platform-browser-dynamic": "5.0.0",
+    "@angular/common": "4.0.0",
+    "@angular/compiler": "4.0.0",
+    "@angular/compiler-cli": "4.0.0",
+    "@angular/core": "4.0.0",
+    "@angular/forms": "4.0.0",
+    "@angular/http": "4.0.0",
+    "@angular/platform-browser": "4.0.0",
+    "@angular/platform-browser-dynamic": "4.0.0",
     "angular-in-memory-web-api": "~0.5.1",
     "concurrently": "^3.4.0",
     "copyfiles": "^1.2.0",
@@ -60,10 +60,10 @@
     "typings": "^2.1.0",
     "rxjs": "^5.5.2",
     "version": "^0.1.2",
-    "zone.js": "^0.8.18"
+    "zone.js": "0.8.4"
   },
   "bugs": {
-    "url": "https://github.com/web-dave/ngx-img-cropper/issues"
+    "url": "https://github.com/MAhsenArif/ngx-img-cropper/issues"
   },
-  "homepage": "https://github.com/web-dave/ngx-img-cropper#readme"
+  "homepage": "https://github.com/MAhsenArif/ngx-img-cropper#readme"
 }
