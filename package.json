@@ -1,6 +1,6 @@
 {
   "name": "ng4-img-cropper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Image cropping tool for Angular - Patch to work Angular 4",
   "scripts": {
     "tsc": "tsc",
